@@ -1,0 +1,21 @@
+.heading{
+    color: teal;
+    text-transform: capitalize;
+}
+
+.person{
+    position: relative;
+    left: 100px;
+}
+h1{
+    color: blueviolet;
+}
+button{
+    background-color: teal;
+    color: #fff;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
